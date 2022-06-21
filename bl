@@ -26,7 +26,7 @@ main() {
     reverseit $domain "IP not valid or domain could not be resolved."
   else
 
-    echo "You entered an IP: $1"
+    echo "You entered an IP :) : $1"
     reverseit $1 "IP not valid."
   fi
 
