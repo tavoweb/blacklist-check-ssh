@@ -13,19 +13,19 @@ Blacklists grabbed from https://hetrixtools.com/blacklist-check. Previously used
 
 ### Installation
 
-    git clone https://github.com/adionditsak/blacklist-check-unix-linux-utility.git
-    cd blacklist-check-unix-linux-utility
+    git clone https://github.com/tavoweb/blacklist-check.git
+    cd blacklist-check
     chmod +x ./bl
     mv ./bl /usr/local/bin
 
 ### Usage
 
     # Use with domains or IP addresses
-    $ ./bl domain.tld
-    $ ./bl 8.8.8.8 # IP
+    $ bl domain.tld
+    $ bl 8.8.8.8 # IP
     
     # Pipe with other UNIX utils, eg. grep. Only blacklisted:
-    $ ./bl domain.tld | grep "blacklisted"
+    $ bl domain.tld | grep "blacklisted"
 
 ### Sample output
 
