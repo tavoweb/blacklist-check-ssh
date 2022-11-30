@@ -1,4 +1,4 @@
-# blacklist-check-unix-linux-utility
+# blacklist-check-ssh
 Blacklist check UNIX/Linux utility. I was just a bit tired of web interfaces.
 
 ### Introduction
@@ -13,8 +13,8 @@ Blacklists grabbed from https://hetrixtools.com/blacklist-check. Previously used
 
 ### Installation
 
-    git clone https://github.com/tavoweb/blacklist-check.git
-    cd blacklist-check
+    git clone https://github.com/tavoweb/blacklist-check-ssh.git
+    cd blacklist-check-ssh
     chmod +x ./bl
     mv ./bl /usr/local/bin
 
