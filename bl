@@ -101,7 +101,7 @@ cecho(){
 
 
 
-#### Updated at 2023-07-22 from: ####
+#### Updated at 2023-12-12 from: ####
 #### blacklists - grabbed from https://hetrixtools.com/blacklist-check ####
 #### blacklists - grabbed from https://glockapps.com/blacklist/dnsrbl-org/ ####
 #### blacklists - grabbed from updated list at slurp-ramen.com ####
@@ -342,10 +342,6 @@ dbl.suomispam.net
 gl.suomispam.net
 dob.sibl.support-intelligence.net
 dnsbl-0.uceprotect.net
-black.uribl.com
-grey.uribl.com
-multi.uribl.com
-red.uribl.com
 free.v4bl.org
 ip.v4bl.org
 blacklist.woody.ch
@@ -358,14 +354,11 @@ krn.korumail.com
 reputation-domain.rbl.scrolloutf1.com
 reputation-ip.rbl.scrolloutf1.com
 reputation-ns.rbl.scrolloutf1.com
-score.senderscore.com
 score.spfbl.net
 query.bondedsender.org
 plus.bondedsender.org
 white.dnsbl.brukalai.lt
 whitelist.sci.kun.nl
-dwl.dnswl.org
-list.dnswl.org
 accredit.habeas.com
 sa-accredit.habeas.com
 hul.habeas.com
@@ -386,15 +379,10 @@ _vouch.dwl.spamhaus.org
 swl.spamhaus.org
 dnswl.spfbl.net
 wbl.triumf.ca
-white.uribl.com
 ips.whitelisted.org
-abuse-contacts.abusix.org
-all.ascc.dnsbl.bit.nl
 all.dnsbl.bit.nl
 bitonly.dnsbl.bit.nl
 zz.countries.nerd.dk
-origin.asn.cymru.com
-peer.asn.cymru.com
 tor.dan.me.uk
 asn.routeviews.org
 aspath.routeviews.org
@@ -402,8 +390,6 @@ query.senderbase.org
 sa.senderbase.org
 rf.senderbase.org
 geobl.spameatingmonkey.net
-origin.asn.spameatingmonkey.net
-abuse.spfbl.net
 0outspam.fusionzero.com
 0spam.fusionzero.com
 0spam-killlist.fusionzero.com
