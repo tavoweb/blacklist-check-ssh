@@ -191,6 +191,8 @@ dnsbl-1.uceprotect.net
 dnsbl-2.uceprotect.net
 dnsbl-3.uceprotect.net
 blacklist.woody.ch
+db.wpbl.info
+bl.blocklist.de
 "
 
 ### initiate script ###
